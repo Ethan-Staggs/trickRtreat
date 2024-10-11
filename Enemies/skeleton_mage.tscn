@@ -7,7 +7,7 @@
 radius = 0.943063
 height = 3.12371
 
-[node name="Skeleton_Mage" instance=ExtResource("1_pwfws")]
+[node name="Skeleton_Mage" groups=["enemies"] instance=ExtResource("1_pwfws")]
 script = ExtResource("2_iknvm")
 
 [node name="Skeleton3D" parent="Rig" index="0"]
