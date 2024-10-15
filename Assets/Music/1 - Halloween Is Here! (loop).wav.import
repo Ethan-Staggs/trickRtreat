@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://dwh2dhy7fu3ic"
+path="res://.godot/imported/1 - Halloween Is Here! (loop).wav-7f72b3e350ef2a72e53983e283359541.sample"
+
+[deps]
+
+source_file="res://Assets/Music/1 - Halloween Is Here! (loop).wav"
+dest_files=["res://.godot/imported/1 - Halloween Is Here! (loop).wav-7f72b3e350ef2a72e53983e283359541.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
